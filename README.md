@@ -1,7 +1,8 @@
 # paiza
 ## スクリーンショット
-![codding girl](./image/Coddinggirl.png)
-![koisuru hakkason](./image/koisuru.png)
+![codding girl](./images/Coddinggirl.png)
+![koisuru hakkason](./images/koisuru.png)
+## 恋するハッカソン
 ## 髪型
 - [ショートヘア](./shorthair.py)
 ## 目
