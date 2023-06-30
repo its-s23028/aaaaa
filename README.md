@@ -1,4 +1,7 @@
 # paiza
+## スクリーンショット
+![codding girl](./image/Coddinggirl.png)
+![koisuru hakkason](./image/koisuru.png)
 ## 髪型
 - [ショートヘア](./shorthair.py)
 ## 目
